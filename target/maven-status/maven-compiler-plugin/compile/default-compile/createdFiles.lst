@@ -1,0 +1,6 @@
+com\example\myapp\Controller\Characterscontroller.class
+com\example\myapp\Repository\CharactersRepository.class
+com\example\myapp\Entity\Characters.class
+com\example\myapp\MyAppApplication.class
+com\example\myapp\Service\CharactersService.class
+com\example\myapp\Service\CharactersServiceImpl.class
